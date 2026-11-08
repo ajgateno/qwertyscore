@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Downloaded third-party sources and data; datasets.py re-fetches them
+data/raw/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
